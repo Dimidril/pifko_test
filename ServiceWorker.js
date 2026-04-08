@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-Pifko_CatchFresh-1.1";
 const contentToCache = [
     "Build/pifko_test.loader.js",
-    "Build/pifko_test.framework.js.gz",
-    "Build/pifko_test.data.gz",
-    "Build/pifko_test.wasm.gz",
+    "Build/pifko_test.framework.js",
+    "Build/pifko_test.data",
+    "Build/pifko_test.wasm",
     "TemplateData/style.css"
 
 ];
