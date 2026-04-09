@@ -1,4 +1,4 @@
-const cacheName = "DefaultCompany-Pifko_CatchFresh-1.1";
+const cacheName = "DefaultCompany-Pifko_CatchFresh-1.2";
 const contentToCache = [
     "Build/pifko_test.loader.js",
     "Build/pifko_test.framework.js",
